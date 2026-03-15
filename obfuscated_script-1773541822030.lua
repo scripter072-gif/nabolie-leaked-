@@ -1,1 +1,1 @@
-print("wsp donkey ")
+print("wsp donkey")
